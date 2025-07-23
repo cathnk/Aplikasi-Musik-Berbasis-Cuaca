@@ -1,0 +1,101 @@
+artis,judul,path_cover,jenis_playlist
+Adele,Love In The Dark,C:/Project UAS TERBARU/Gambar Lagu/Adele - Love In The Dark.png,galau
+Afgan,Panah Asmara,C:/Project UAS TERBARU/Gambar Lagu/Afgan - Panah Asmara.png,ceria
+Andra And The Backbone,Sempurna,C:/Project UAS TERBARU/Gambar Lagu/Andra And The Backbone - Sempurna.png,galau
+Anne Marie,2002,C:/Project UAS TERBARU/Gambar Lagu/Anne Marie - 2002.png,ceria
+Anne Marie ft James Arthur,Rewrite The Stars,C:/Project UAS TERBARU/Gambar Lagu/Anne Marie ft James Arthur - Rewrite The Stars.png,galau
+Arash Buana ft Raissa Anggiani,if u could see me cryin in my room,C:/Project UAS TERBARU/Gambar Lagu/Arash Buana ft Raissa Anggiani - if u could see me cryin in my room.png,galau
+Ariana Grande,One Last Time,C:/Project UAS TERBARU/Gambar Lagu/Ariana Grande - One Last Time.png,ceria
+Ariana Grande,We Can't Be Friends,C:/Project UAS TERBARU/Gambar Lagu/Ariana Grande - We Cant Be Friends.png,ceria
+AWDELLA,Tertawan Hati,C:/Project UAS TERBARU/Gambar Lagu/AWDELLA - Tertawan Hati.png,galau
+Bruno Mars,Locked Out Of Heaven,C:/Project UAS TERBARU/Gambar Lagu/Bruno Mars - Locked Out Of Heaven.png,galau
+BTS,Dynamite,C:/Project UAS TERBARU/Gambar Lagu/BTS - Dynamite.png,ceria
+Cakra Khan,Kekasih Bayangan,C:/Project UAS TERBARU/Gambar Lagu/Cakra Khan - Kekasih Bayangan.png,galau
+Camila Cabello ft Young Thug,Havana,C:/Project UAS TERBARU/Gambar Lagu/Camila Cabello ft Young Thug - Havana.png,ceria
+Cash Cash ft Bebe Rexha,Take Me Home,C:/Project UAS TERBARU/Gambar Lagu/Cash Cash ft Bebe Rexha - Take Me Home.png,galau
+Charlie Puth,Attention,C:/Project UAS TERBARU/Gambar Lagu/Charlie Puth - Attention.png,ceria
+Charlie Puth ft Selena Gomez,We Don't Talk Anymore,C:/Project UAS TERBARU/Gambar Lagu/Charlie Puth ft Selena Gomez - We Dont Talk Anymore.png,ceria
+Coboy Junior,Kamu,C:/Project UAS TERBARU/Gambar Lagu/Coboy Junior - Kamu.png,ceria
+Coldplay,Clocks,C:/Project UAS TERBARU/Gambar Lagu/Coldplay - Clocks.png,galau
+Coldplay,Fix You,C:/Project UAS TERBARU/Gambar Lagu/Coldplay - Fix You.png,galau
+Coldplay,Yellow,C:/Project UAS TERBARU/Gambar Lagu/Coldplay - Yellow.png,galau
+Cupid,Fifty Fifty,C:/Project UAS TERBARU/Gambar Lagu/Cupid - Fifty Fifty.png,ceria
+Daya,Sit Still Look Pretty,C:/Project UAS TERBARU/Gambar Lagu/Daya - Sit Still Look Pretty.png,ceria
+Dendi Nata ft Hendra Kumbara,Abadi,C:/Project UAS TERBARU/Gambar Lagu/Dendi Nata ft Hendra Kumbara - Abadi.png,galau
+Denny Caknan,Sugeng Dalu,C:/Project UAS TERBARU/Gambar Lagu/Denny Caknan - Sugeng Dalu.png,galau
+Denny Caknan,Wirang,C:/Project UAS TERBARU/Gambar Lagu/Denny Caknan - Wirang.png,galau
+Devano,Surat Hati,C:/Project UAS TERBARU/Gambar Lagu/Devano - Surat Hati.png,galau
+Dewa 19,Pupus,C:/Project UAS TERBARU/Gambar Lagu/Dewa 19 - Pupus.png,galau
+Dewa 19,Risalah Hati,C:/Project UAS TERBARU/Gambar Lagu/Dewa 19 - Risalah Hati.png,galau
+Dewa 19,Kangen,C:/Project UAS TERBARU/Gambar Lagu/Dewa 19 - Kangen.png,galau
+Dewa 19,Separuh Nafas,C:/Project UAS TERBARU/Gambar Lagu/Dewa 19 - Separuh Nafas.png,ceria
+Djo,End Of Beginning,C:/Project UAS TERBARU/Gambar Lagu/Djo - End Of Beginning.png,galau
+Ed Sheeran,Photograph,C:/Project UAS TERBARU/Gambar Lagu/Ed Sheeran - Photograph.png,galau
+Edward Maya ft Vika Jigulina,Stereo Love,C:/Project UAS TERBARU/Gambar Lagu/Edward Maya ft Vika Jigulina - Stereo Love.png,ceria
+Feby Putri ft Fiersa Besari,Runtuh,C:/Project UAS TERBARU/Gambar Lagu/Feby Putri ft Fiersa Besari - Runtuh.png,galau
+Fools Garden,Lemon Tree,C:/Project UAS TERBARU/Gambar Lagu/Fools Garden - Lemon Tree.png,ceria
+For Revenge,Serana,C:/Project UAS TERBARU/Gambar Lagu/For Revenge - Serana.png,galau
+Fourtwnty,Aku Tenang,C:/Project UAS TERBARU/Gambar Lagu/Fourtwnty - Aku Tenang.png,galau
+Gery Gany,Sesaat Kau Hadir,C:/Project UAS TERBARU/Gambar Lagu/Gery Gany - Sesaat Kau Hadir.png,ceria
+GuyonWaton,Klebus,C:/Project UAS TERBARU/Gambar Lagu/GuyonWaton - Klebus.png,galau
+GuyonWaton,Kok Iso Yo,C:/Project UAS TERBARU/Gambar Lagu/GuyonWaton - Kok Iso Yo.png,galau
+GuyonWaton,Pisah,C:/Project UAS TERBARU/Gambar Lagu/GuyonWaton - Pisah.png,galau
+Hanin Dhiya ft Ahmad Dhani,Roman Picisan,C:/Project UAS TERBARU/Gambar Lagu/Hanin Dhiya ft Ahmad Dhani - Roman Picisan.png,galau
+Harry Styles,As It Was,C:/Project UAS TERBARU/Gambar Lagu/Harry Styles - As It Was.png,ceria
+Henry Moodie,Drunk Text,C:/Project UAS TERBARU/Gambar Lagu/Henry Moodie - Drunk Text.png,galau
+Hindia ft Rara Sekar,Membasuh,C:/Project UAS TERBARU/Gambar Lagu/Hindia ft Rara Sekar - Membasuh.png,galau
+HIVI!,Remaja,C:/Project UAS TERBARU/Gambar Lagu/HIVI! - Remaja.png,ceria
+HIVI!,Siapkah Kau Tuk Jatuh Cinta Lagi,C:/Project UAS TERBARU/Gambar Lagu/HIVI! - Siapkah Kau Tuk Jatuh Cinta Lagi.png,ceria
+HONNE ft BEKA,Location Unknown,C:/Project UAS TERBARU/Gambar Lagu/HONNE ft BEKA - Location Unknown.png,ceria
+Idgitaf,Satu Satu,C:/Project UAS TERBARU/Gambar Lagu/Idgitaf - Satu Satu.png,ceria
+James Arthur,A Thousand Years,C:/Project UAS TERBARU/Gambar Lagu/James Arthur - A Thousand Years.png,galau
+JKT48,Heavy Rotation,C:/Project UAS TERBARU/Gambar Lagu/JKT48 - Heavy Rotation.png,ceria
+Jungkook,Seven,C:/Project UAS TERBARU/Gambar Lagu/Jungkook - Seven.png,ceria
+Justin Bieber,Favorite Girl,C:/Project UAS TERBARU/Gambar Lagu/Justin Bieber - Favorite Girl.png,ceria
+Kahitna,Cantik,C:/Project UAS TERBARU/Gambar Lagu/Kahitna - Cantik.png,ceria
+Kerispatih,Mengenangmu,C:/Project UAS TERBARU/Gambar Lagu/Kerispatih - Mengenangmu.png,galau
+King Promise ft Young Jonn,Terminator,C:/Project UAS TERBARU/Gambar Lagu/King Promise ft Young Jonn - Terminator.png,ceria
+Lisa,Money,C:/Project UAS TERBARU/Gambar Lagu/Lisa - Money.png,ceria
+Lyodra,Pesan Terakhir,C:/Project UAS TERBARU/Gambar Lagu/Lyodra - Pesan Terakhir.png,galau
+Mahalini,Sial,C:/Project UAS TERBARU/Gambar Lagu/Mahalini - Sial.png,galau
+Masdddho,Kisinan 2,C:/Project UAS TERBARU/Gambar Lagu/Masdddho - Kisinan 2.png,galau
+Moncus,Cerita Bintang,C:/Project UAS TERBARU/Gambar Lagu/Moncus - Cerita Bintang.png,ceria
+Nadhif,Penjaga Hati,C:/Project UAS TERBARU/Gambar Lagu/Nadhif - Penjaga Hati.png,ceria
+Nadin Amizah,Kekal,C:/Project UAS TERBARU/Gambar Lagu/Nadin Amizah - Kekal.png,galau
+Nidji,Rahasia Hati,C:/Project UAS TERBARU/Gambar Lagu/Nidji - Rahasia Hati.png,galau
+NIKI,Take A Chance With Me,C:/Project UAS TERBARU/Gambar Lagu/NIKI - Take A Chance With Me.png,galau
+Northsle ft Agiff,Tresno Liyane,C:/Project UAS TERBARU/Gambar Lagu/Northsle ft Agiff - Tresno Liyane.png,galau
+One Direction,18,C:/Project UAS TERBARU/Gambar Lagu/One Direction - 18.png,ceria
+One Direction,Night Changes,C:/Project UAS TERBARU/Gambar Lagu/One Direction - Night Changes.png,galau
+One Direction,Perfect,C:/Project UAS TERBARU/Gambar Lagu/One Direction - Perfect.png,ceria
+One Direction,What Makes You Beautiful,C:/Project UAS TERBARU/Gambar Lagu/One Direction - What Makes You Beautiful.png,ceria
+OwlCity,Fireflies,C:/Project UAS TERBARU/Gambar Lagu/OwlCity - Fireflies.png,ceria
+Pamungkas,To The Bone,C:/Project UAS TERBARU/Gambar Lagu/Pamungkas - To The Bone.png,galau
+Payung Teduh,Untuk Perempuan Yang Sedang Dalam Pelukan,C:/Project UAS TERBARU/Gambar Lagu/Payung Teduh - Untuk Perempuan Yang Sedang Dalam Pelukan.png,galau
+Pink Sweat$,At My Worst,C:/Project UAS TERBARU/Gambar Lagu/Pink Sweat$ - At My Worst.png,ceria
+PUBLIC,Make You Mine,C:/Project UAS TERBARU/Gambar Lagu/PUBLIC - Make You Mine.png,ceria
+Rizky Febian ft Ziva Magnolya,Terlukis Indah,C:/Project UAS TERBARU/Gambar Lagu/Rizky Febian ft Ziva Manoglya - Terlukis Indah.png,ceria
+Rony Parulian ft Andi Rianto,Sepenuh Hati,C:/Project UAS TERBARU/Gambar Lagu/Rony Parulian ft Andi Rianto - Sepenuh Hati.png,galau
+Ruth B,Dandelions,C:/Project UAS TERBARU/Gambar Lagu/Ruth B - Dandelions.png,galau
+Shawn Mendes,Treat You Better,C:/Project UAS TERBARU/Gambar Lagu/Shawn Mendes - Treat You Better.png,ceria
+Sheila on 7,Dan,C:/Project UAS TERBARU/Gambar Lagu/Sheila on 7 - Dan.png,ceria
+Sheila On 7,Hari Bersamanya,C:/Project UAS TERBARU/Gambar Lagu/Sheila On 7 - Hari Bersamanya.png,ceria
+Sheila On 7,Kita,C:/Project UAS TERBARU/Gambar Lagu/Sheila On 7 - Kita.png,ceria
+Stephen Sanchez,Until I Found You,C:/Project UAS TERBARU/Gambar Lagu/Stephen Sanchez - Until I Found You.png,ceria
+Suara Kayu ft Feby Putri,Kembali Pulang,C:/Project UAS TERBARU/Gambar Lagu/Suara Kayu ft Feby Putri - Kembali Pulang.png,galau
+Taylor Swift,Blank Space,C:/Project UAS TERBARU/Gambar Lagu/Taylor Swift - Blank Space.png,ceria
+The Chainsmokers ft Halsey,Closer,C:/Project UAS TERBARU/Gambar Lagu/The Chainsmokers ft Halsey - Closer.png,ceria
+The Kid LAROI ft Justin Bieber,STAY,C:/Project UAS TERBARU/Gambar Lagu/The Kid LAROI ft Justin Bieber - STAY.png,galau
+The Weeknd ft Jennie & Lily Rose Depp,One Of The Girls,C:/Project UAS TERBARU/Gambar Lagu/The Weeknd ft Jennie & Lily Rose Depp - One Of The Girls.png,ceria
+The Weeknd ft Playboi Carti & Madonna,Popular,C:/Project UAS TERBARU/Gambar Lagu/The Weeknd ft Playboi Carti & Madonna - Popular.png,ceria
+Tiara Andini,Kupu-Kupu,C:/Project UAS TERBARU/Gambar Lagu/Tiara Andini - Kupu-Kupu.png,ceria
+Tiara Andini ft Arsy Widianto,Cintanya Aku,C:/Project UAS TERBARU/Gambar Lagu/Tiara Andini ft Arsy Widianto - Cintanya Aku.png,ceria
+Tiket,Hanya kamu yang bisa,C:/Project UAS TERBARU/Gambar Lagu/Tiket - Hanya kamu yang bisa.png,ceria
+Timbaland ft Justin Timberlake & Nelly Furtado,Give It To Me,C:/Project UAS TERBARU/Gambar Lagu/Timbaland ft Justin Timberlake & Nelly Furtado - Give It To Me.png,ceria
+Tones and I,Dance Monkey,C:/Project UAS TERBARU/Gambar Lagu/Tones and I - Dance Monkey.png,ceria
+TULUS,Labirin,C:/Project UAS TERBARU/Gambar Lagu/TULUS - Labirin.png,ceria
+TULUS,Pamit,C:/Project UAS TERBARU/Gambar Lagu/TULUS - Pamit.png,galau
+Umay Shahab ft Natania Karin,Perayaan Mati Rasa,C:/Project UAS TERBARU/Gambar Lagu/Umay Shahab ft Natania Karin - Perayaan Mati Rasa.png,galau
+Utopia,Hujan,C:/Project UAS TERBARU/Gambar Lagu/Utopia - Hujan.png,galau
+Vancouver Sleep Clinic,Someone to Stay,C:/Project UAS TERBARU/Gambar Lagu/Vancouver Sleep Clinic - Someone to Stay.png,galau
+Yura Yunita,Jalan Pulang,C:/Project UAS TERBARU/Gambar Lagu/Yura Yunita - Jalan Pulang.png,galau

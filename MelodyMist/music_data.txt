@@ -1,0 +1,101 @@
+music_names,music_artist,music_path,music_cover_music_genre
+Separuh Nafas - Dewa 19,Dewa 19 - Separuh Nafas,C:\Project UAS TERBARU\Lagu\Dewa 19 - Separuh Nafas.mp3,C:\Project UAS TERBARU\Gambar Lagu\Dewa 19 - Separuh Nafas.png,Pop Rock
+Sial - Mahalini,Mahalini - Sial,C:\Project UAS TERBARU\Lagu\Mahalini - Sial.mp3,C:\Project UAS TERBARU\Gambar Lagu\Mahalini - Sial.png,Pop
+Fix You - Coldplay,Coldplay - Fix You,C:\Project UAS TERBARU\Lagu\Coldplay - Fix You.mp3,C:\Project UAS TERBARU\Gambar Lagu\Coldplay - Fix You.png,Rock
+Panah Asmara - Afgan,Afgan - Panah Asmara,C:\Project UAS TERBARU\Lagu\Afgan - Panah Asmara.mp3,C:\Project UAS TERBARU\Gambar Lagu\Afgan - Panah Asmara.png,Pop
+Attention - Charlie Puth,Charlie Puth - Attention,C:\Project UAS TERBARU\Lagu\Charlie Puth - Attention.mp3,C:\Project UAS TERBARU\Gambar Lagu\Charlie Puth - Attention.png,Pop
+One Last Time - Ariana Grande,Ariana Grande - One Last Time,C:\Project UAS TERBARU\Lagu\Ariana Grande - One Last Time.mp3,C:\Project UAS TERBARU\Gambar Lagu\Ariana Grande - One Last Time.png,Pop
+Yellow - Coldplay,Coldplay - Yellow,C:\Project UAS TERBARU\Lagu\Coldplay - Yellow.mp3,C:\Project UAS TERBARU\Gambar Lagu\Coldplay - Yellow.png,Pop
+Penjaga hati - Nadhif,Nadhif - Penjaga hati,C:\Project UAS TERBARU\Lagu\Nadhif - Penjaga Hati.mp3,C:\Project UAS TERBARU\Gambar Lagu\Nadhif - Penjaga hati.png,Pop
+Locked Out Of Heaven - Bruno Mars,Bruno Mars - Locked Out Of Heaven,C:\Project UAS TERBARU\Lagu\Bruno Mars - Locked Out Of Heaven.mp3,C:\Project UAS TERBARU\Gambar Lagu\Bruno Mars - Locked Out Of Heaven.png,Pop
+Dan - Sheila on 7,Sheila on 7 - Dan,C:\Project UAS TERBARU\Lagu\Sheila on 7 - Dan.mp3,C:\Project UAS TERBARU\Gambar Lagu\Sheila on 7 - Dan.png,Pop Rock
+Runtuh - Feby Putri Fiersa Besari,Feby Putri Fiersa Besari - Runtuh,C:\Project UAS TERBARU\Lagu\Feby Putri ft Fiersa Besari - Runtuh.mp3,C:\Project UAS TERBARU\Gambar Lagu\Feby Putri ft Fiersa Besari - Runtuh.png,Pop
+Hari Bersamanya - Sheila On 7,Sheila On 7 - Hari Bersamanya,C:\Project UAS TERBARU\Lagu\Sheila On 7 - Hari Bersamanya.mp3,C:\Project UAS TERBARU\Gambar Lagu\Sheila On 7 - Hari Bersamanya.png,Pop Rock
+Cantik - Kahitna,Kahitna - Cantik,C:\Project UAS TERBARU\Lagu\Kahitna - Cantik.mp3,C:\Project UAS TERBARU\Gambar Lagu\Kahitna - Cantik.png,Pop
+Sit Still Look Pretty - Daya,Daya - Sit Still Look Pretty,C:\Project UAS TERBARU\Lagu\Daya - Sit Still Look Pretty.mp3,C:\Project UAS TERBARU\Gambar Lagu\Daya - Sit Still Look Pretty.png,Pop
+Popular - The Weeknd ft Playboi Carti & Madonna,The Weeknd ft Playboi Carti & Madonna - Popular,C:\Project UAS TERBARU\Lagu\The Weeknd ft Playboi Carti & Madonna - Popular.mp3,C:\Project UAS TERBARU\Gambar Lagu\The Weeknd ft Playboi Carti & Madonna - Popular.png,Pop
+Kita - Sheila On 7,Sheila On 7 - Kita,C:\Project UAS TERBARU\Lagu\Sheila On 7 - Kita.mp3,C:\Project UAS TERBARU\Gambar Lagu\Sheila On 7 - Kita.png,Pop Rock
+Cerita Bintang - Moncus,Moncus - Cerita Bintang,C:\Project UAS TERBARU\Lagu\Moncus - Cerita Bintang.mp3,C:\Project UAS TERBARU\Gambar Lagu\Moncus - Cerita Bintang.png,Pop
+Heavy Rotation - JKT48,JKT48 - Heavy Rotation,C:\Project UAS TERBARU\Lagu\JKT48 - Heavy Rotation.mp3,C:\Project UAS TERBARU\Gambar Lagu\JKT48 - Heavy Rotation.png,Pop
+18 - One Direction,One Direction - 18,C:\Project UAS TERBARU\Lagu\One Direction - 18.mp3,C:\Project UAS TERBARU\Gambar Lagu\One Direction - 18.png,Pop
+Favorite Girl - Justin Bieber,Justin Bieber - Favorite Girl,C:\Project UAS TERBARU\Lagu\Justin Bieber - Favorite Girl.mp3,C:\Project UAS TERBARU\Gambar Lagu\Justin Bieber - Favorite Girl.png,Pop
+Lemon Tree - Fool_s Garden,Fool_s Garden - Lemon Tree,C:\Project UAS TERBARU\Lagu\Fools Garden - Lemon Tree.mp3,C:\Project UAS TERBARU\Gambar Lagu\Fools Garden - Lemon Tree.png,Pop
+Satu Satu - Idgitaf,Idgitaf - Satu Satu,C:\Project UAS TERBARU\Lagu\Idgitaf - Satu-Satu.mp3,C:\Project UAS TERBARU\Gambar Lagu\Idgitaf - Satu Satu.png,Pop
+Hanya Kamu Yang Bisa - Tiket,Tiket - Hanya Kamu Yang Bisa,C:\Project UAS TERBARU\Lagu\Tiket - Hanya kamu yang bisa.mp3,C:\Project UAS TERBARU\Gambar Lagu\Tiket - Hanya Kamu Yang Bisa.png,Pop
+What Makes You Beautiful - One Direction,One Direction - What Makes You Beautiful,C:\Project UAS TERBARU\Lagu\One Direction - What Makes You Beautiful.mp3,C:\Project UAS TERBARU\Gambar Lagu\One Direction - What Makes You Beautiful.png,Pop
+Make You Mine - PUBLIC,PUBLIC - Make You Mine,C:\Project UAS TERBARU\Lagu\PUBLIC - Make You Mine.mp3,C:\Project UAS TERBARU\Gambar Lagu\PUBLIC - Make You Mine.png,Pop
+Terminator - King Promise ft Young Jonn,King Promise ft Young Jonn - Terminator,C:\Project UAS TERBARU\Lagu\King Promise ft Young Jonn - Terminator.mp3,C:\Project UAS TERBARU\Gambar Lagu\King Promise ft Young Jonn - Terminator.png,R&B
+Tresno Liyane - Northsle Ft Agiff,Northsle Ft Agiff - Tresno Liyane,C:\Project UAS TERBARU\Lagu\Northsle ft Agiff - Tresno Liyane.mp3,C:\Project UAS TERBARU\Gambar Lagu\Northsle ft Agiff - Tresno Liyane.png,Dangdut
+Until I Found You - Stephen Sanchez,Stephen Sanchez - Until I Found You,C:\Project UAS TERBARU\Lagu\Stephen Sanchez - Until I Found You.mp3,C:\Project UAS TERBARU\Gambar Lagu\Stephen Sanchez - Until I Found You.png,Pop
+Stereo Love - Edward Maya ft Vika Jigulina,Edward Maya ft Vika Jigulina - Stereo Love,C:\Project UAS TERBARU\Lagu\Edward Maya ft Vika Jigulina - Stereo Love.mp3,C:\Project UAS TERBARU\Gambar Lagu\Edward Maya ft Vika Jigulina - Stereo Love.png,Pop
+Perayaan Mati Rasa - Umay Shahab feat Natania Karin,Umay Shahab feat Natania Karin - Perayaan Mati Rasa,C:\Project UAS TERBARU\Lagu\Umay Shahab ft Natania Karin - Perayaan Mati Rasa.mp3,C:\Project UAS TERBARU\Gambar Lagu\Umay Shahab ft Natania Karin - Perayaan Mati Rasa.png,Pop
+Risalah Hati - Dewa 19,Dewa 19 - Risalah Hati,C:\Project UAS TERBARU\Lagu\Dewa 19 - Risalah Hati.mp3,C:\Project UAS TERBARU\Gambar Lagu\Dewa 19 - Risalah Hati.png,Pop
+Rewrite The Stars - Anne Marie & James Arthur,Anne Marie & James Arthur - Rewrite The Stars,C:\Project UAS TERBARU\Lagu\Anne Marie ft James Arthur - Rewrite The Stars.mp3,C:\Project UAS TERBARU\Gambar Lagu\Anne Marie ft James Arthur - Rewrite The Stars.png,Pop
+As It Was - Harry Style,Harry Style - As It Was,C:\Project UAS TERBARU\Lagu\Harry Styles - As It Was.mp3,C:\Project UAS TERBARU\Gambar Lagu\Harry Styles - As It Was.png,Pop
+Terlukis Indah - Rizky Febian ft Ziva Manoglya,Rizky Febian ft Ziva Manoglya - Terlukis Indah,C:\Project UAS TERBARU\Lagu\Rizky Febian ft Ziva Magnolya - Terlukis Indah.mp3,C:\Project UAS TERBARU\Gambar Lagu\Rizky Febian ft Ziva Manoglya - Terlukis Indah.png,Pop
+Havana - Camila Cabello,Camila Cabello - Havana,C:\Project UAS TERBARU\Lagu\Camila Cabello ft Young Thug - Havana.mp3,C:\Project UAS TERBARU\Gambar Lagu\Camila Cabello ft Young Thug - Havana.png,Pop
+Labirin - TULUS,TULUS - Labirin,C:\Project UAS TERBARU\Lagu\TULUS - Labirin.mp3,C:\Project UAS TERBARU\Gambar Lagu\TULUS - Labirin.png,Pop
+STAY - The Kid LAROI Justin Bieber,The Kid LAROI Justin Bieber - STAY,C:\Project UAS TERBARU\Lagu\The Kid LAROI ft Justin Bieber - STAY.mp3,C:\Project UAS TERBARU\Gambar Lagu\The Kid LAROI ft Justin Bieber - STAY.png,Pop Rock
+At My Worst - Pink Sweat$,Pink Sweat$ - At My Worst,C:\Project UAS TERBARU\Lagu\Pink Sweat$ - At My Worst.mp3,C:\Project UAS TERBARU\Gambar Lagu\Pink Sweat$ - At My Worst.png,R&B
+Blank Space - Taylor Swift,Taylor Swift - Blank Space,C:\Project UAS TERBARU\Lagu\Taylor Swift - Blank Space.mp3,C:\Project UAS TERBARU\Gambar Lagu\Taylor Swift - Blank Space.png,Pop
+Sesaat Kau Hadir - Gery Gany,Gery Gany - Sesaat Kau Hadir,C:\Project UAS TERBARU\Lagu\Gery Gany - Sesaat Kau Hadir.mp3,C:\Project UAS TERBARU\Gambar Lagu\Gery Gany - Sesaat Kau Hadir.png,R&B
+Treat You Better - Shawn Mendes,Shawn Mendes - Treat You Better,C:\Project UAS TERBARU\Lagu\Shawn Mendes - Treat You Better.mp3,C:\Project UAS TERBARU\Gambar Lagu\Shawn Mendes - Treat You Better.png,Pop
+Pupus - Dewa 19,Dewa 19 - Pupus,C:\Project UAS TERBARU\Lagu\Dewa 19 - Pupus.mp3,C:\Project UAS TERBARU\Gambar Lagu\Dewa 19 - Pupus.png,Pop
+Kamu - Coboy Junior,Coboy Junior - Kamu,C:\Project UAS TERBARU\Lagu\Coboy Junior - Kamu.mp3,C:\Project UAS TERBARU\Gambar Lagu\Coboy Junior - Kamu.png,Pop
+Kisinan 2 - Masdddho,Masdddho - Kisinan 2,C:\Project UAS TERBARU\Lagu\Masdddho - Kisinan 2.mp3,C:\Project UAS TERBARU\Gambar Lagu\Masdddho - Kisinan 2.png,Dangdut
+Fireflies - OwlCity,OwlCity - Fireflies,C:\Project UAS TERBARU\Lagu\Owl City - Fireflies.mp3,C:\Project UAS TERBARU\Gambar Lagu\OwlCity - Fireflies.png,Pop
+Hujan - Utopia,Utopia - Hujan,C:\Project UAS TERBARU\Lagu\Utopia - Hujan.mp3,C:\Project UAS TERBARU\Gambar Lagu\Utopia - Hujan.png,Pop
+Wirang - Denny Caknan,Denny Caknan - Wirang,C:\Project UAS TERBARU\Lagu\Denny Caknan - Wirang.mp3,C:\Project UAS TERBARU\Gambar Lagu\Denny Caknan - Wirang.png,Dangdut
+if u could see me cryin in my room - Arash Buana ft Raissa Anggiani,Arash Buana ft Raissa Anggiani - if u could see me cryin in my room,C:\Project UAS TERBARU\Lagu\Arash Buana ft Raissa Anggiani - if u could see me cryin in my room.mp3,C:\Project UAS TERBARU\Gambar Lagu\Arash Buana ft Raissa Anggiani - if u could see me cryin in my room.png,Pop
+Kangen - Dewa 19,Dewa 19 - Kangen,C:\Project UAS TERBARU\Lagu\Dewa 19 - Kangen.mp3,C:\Project UAS TERBARU\Gambar Lagu\Dewa 19 - Kangen.png,Pop
+Location Unknown - HONNE ft BEKA,HONNE ft BEKA - Location Unknown,C:\Project UAS TERBARU\Lagu\HONNE ft BEKA - Location Unknown.mp3,C:\Project UAS TERBARU\Gambar Lagu\HONNE ft BEKA - Location Unknown.png,Indie
+Serana - For Revenge,For Revenge - Serana,C:\Project UAS TERBARU\Lagu\For Revenge - Serana.mp3,C:\Project UAS TERBARU\Gambar Lagu\For Revenge - Serana.png,Indie
+Take Me Home - Cash Cash feat. Bebe Rexha,Cash Cash feat. Bebe Rexha  - Take Me Home,C:\Project UAS TERBARU\Lagu\Cash Cash ft Bebe Rexha - Take Me Home.mp3,C:\Project UAS TERBARU\Gambar Lagu\Cash Cash ft Bebe Rexha - Take Me Home.png,Country
+Klebus - GuyonWaton,GuyonWaton - Klebus,C:\Project UAS TERBARU\Lagu\GuyonWaton - Klebus.mp3,C:\Project UAS TERBARU\Gambar Lagu\GuyonWaton - Klebus.png,Dangdut
+Sepenuh Hati - Rony Parulian ft Andi Rianto,Rony Parulian ft Andi Rianto - Sepenuh Hati,C:\Project UAS TERBARU\Lagu\Rony Parulian ft Andi Rianto - Sepenuh Hati.mp3,C:\Project UAS TERBARU\Gambar Lagu\Rony Parulian ft Andi Rianto - Sepenuh Hati.png,Pop
+Mengenangmu - Kerispatih,Kerispatih - Mengenangmu,C:\Project UAS TERBARU\Lagu\Kerispatih - Mengenangmu.mp3,C:\Project UAS TERBARU\Gambar Lagu\Kerispatih - Mengenangmu.png,Pop
+Abadi - Dendi Nata ft Hendra Kumbara,Dendi Nata ft Hendra Kumbara - Abadi,C:\Project UAS TERBARU\Lagu\Dendi Nata ft Hendra Kumbara - Abadi.mp3,C:\Project UAS TERBARU\Gambar Lagu\Dendi Nata ft Hendra Kumbara - Abadi.png,Indie
+Surat Hati - Devano,Devano - Surat Hati,C:\Project UAS TERBARU\Lagu\Devano - Surat Hati.mp3,C:\Project UAS TERBARU\Gambar Lagu\Devano - Surat Hati.png,Pop
+Remaja - HIVI!,HIVI! - Remaja,C:\Project UAS TERBARU\Lagu\HIVI! - Remaja.mp3,C:\Project UAS TERBARU\Gambar Lagu\HIVI! - Remaja.png,Pop
+2002 - Anne Marie,Anne Marie - 2002,C:\Project UAS TERBARU\Lagu\Anne Marie - 2002.mp3,C:\Project UAS TERBARU\Gambar Lagu\Anne Marie - 2002.png,Pop
+Rahasia Hati - Nidji,Nidji - Rahasia Hati,C:\Project UAS TERBARU\Lagu\Nidji - Rahasia Hati.mp3,C:\Project UAS TERBARU\Gambar Lagu\Nidji - Rahasia Hati.png,Pop
+Photograph - Ed Sheeran,Ed Sheeran - Photograph,C:\Project UAS TERBARU\Lagu\Ed Sheeran - Photograph.mp3,C:\Project UAS TERBARU\Gambar Lagu\Ed Sheeran - Photograph.png,Pop
+Kembali Pulang - Suara Kayu Feat. Feby Putri,Suara Kayu Feat. Feby Putri  - Kembali Pulang,C:\Project UAS TERBARU\Lagu\Suara Kayu ft Feby Putri - Kembali Pulang.mp3,C:\Project UAS TERBARU\Gambar Lagu\Suara Kayu ft Feby Putri - Kembali Pulang.png,Pop
+Closer - The Chainsmokers ft Halsey,The Chainsmokers ft Halsey - Closer,C:\Project UAS TERBARU\Lagu\The Chainsmokers ft Halsey - Closer.mp3,C:\Project UAS TERBARU\Gambar Lagu\The Chainsmokers ft Halsey - Closer.png,Pop
+One of The Girls - The Weeknd ft Jennie & Lliy Rose Depp,The Weeknd ft Jennie & Lliy Rose Depp - One of The Girls,C:\Project UAS TERBARU\Lagu\The Weeknd ft Jennie & Lily Rose Depp - One Of The Girls.mp3,C:\Project UAS TERBARU\Gambar Lagu\The Weeknd ft Jennie & Lily Rose Depp - One of The Girls.png,Pop
+End Of Beginning - Djo,Djo - End Of Beginning,C:\Project UAS TERBARU\Lagu\Djo - End Of Beginning.mp3,C:\Project UAS TERBARU\Gambar Lagu\Djo - End Of Beginning.png,Rock
+Tertawan Hati - AWDELLA,AWDELLA - Tertawan Hati,C:\Project UAS TERBARU\Lagu\AWDELLA - Tertawan Hati.mp3,C:\Project UAS TERBARU\Gambar Lagu\AWDELLA - Tertawan Hati.png,Pop
+Love In The Dark - Adele,Adele - Love In The Dark,C:\Project UAS TERBARU\Lagu\Adele - Love In The Dark.mp3,C:\Project UAS TERBARU\Gambar Lagu\Adele - Love In The Dark.png,Pop
+Roman Picisan - Hanin Dhiya ft Ahmad Dhani,Hanin Dhiya ft Ahmad Dhani - Roman Picisan,C:\Project UAS TERBARU\Lagu\Hanin Dhiya ft Ahmad Dhani - Roman Picisan.mp3,C:\Project UAS TERBARU\Gambar Lagu\Hanin Dhiya ft Ahmad Dhani - Roman Picisan.png,Pop Rock
+Money - Lisa,Lisa - Money,C:\Project UAS TERBARU\Lagu\Lisa - Money.mp3,C:\Project UAS TERBARU\Gambar Lagu\Lisa - Money.png,K-POP
+Kekal - Nadin Amizah,Nadin Amizah - Kekal,C:\Project UAS TERBARU\Lagu\Nadin Amizah - Kekal.mp3,C:\Project UAS TERBARU\Gambar Lagu\Nadin Amizah - Kekal.png,
+Perfect - One Direction,One Direction - Perfect,C:\Project UAS TERBARU\Lagu\One Direction - Perfect.mp3,C:\Project UAS TERBARU\Gambar Lagu\One Direction - Perfect.png,Pop
+We Don't Talk Anymore - Charlie Puth ft Selena Gomez,Charlie Puth ft Selena Gomez - We Don't Talk Anymore,C:\Project UAS TERBARU\Lagu\Charlie Puth ft Selena Gomez - We Dont Talk Anymore.mp3,C:\Project UAS TERBARU\Gambar Lagu\Charlie Puth ft Selena Gomez - We Dont Talk Anymore.png,Pop
+To The Bone - Pamungkas,Pamungkas - To The Bone,C:\Project UAS TERBARU\Lagu\Pamungkas - To The Bone.mp3,C:\Project UAS TERBARU\Gambar Lagu\Pamungkas - To The Bone.png,Pop
+Give It To Me - Timbaland ft Justin Timberlake & Nelly Furtado,Timbaland ft Justin Timberlake & Nelly Furtado - Give It To Me,C:\Project UAS TERBARU\Lagu\Timbaland ft Justin Timberlake & Nelly Furtado - Give It To Me.mp3,C:\Project UAS TERBARU\Gambar Lagu\Timbaland ft Justin Timberlake & Nelly Furtado - Give It To Me.png,R&B
+Kupu kupu - Tiara Andini,Tiara Andini - Kupu kupu,C:\Project UAS TERBARU\Lagu\Tiara Andini - Kupu-Kupu.mp3,C:\Project UAS TERBARU\Gambar Lagu\Tiara Andini - Kupu-kupu.png,Pop
+Kok Iso Yo - GuyonWaton ,GuyonWaton - Kok Iso Yo,C:\Project UAS TERBARU\Lagu\GuyonWaton - Kok Iso Yo.mp3,C:\Project UAS TERBARU\Gambar Lagu\GuyonWaton - Kok Iso Yo.png,Dangdut
+We Can't Be Friends - Ariana Grande,Ariana Grande - We Can't Be Friends,C:\Project UAS TERBARU\Lagu\Ariana Grande - We Can't Be Friends.mp3,C:\Project UAS TERBARU\Gambar Lagu\Ariana Grande - We Cant Be Friends.png,Pop
+Pisah - GuyonWaton Official,GuyonWaton Official - Pisah,C:\Project UAS TERBARU\Lagu\GuyonWaton - Pisah.mp3,C:\Project UAS TERBARU\Gambar Lagu\GuyonWaton - Pisah.png,Pop
+Siapkah Kau Tuk Jatuh Cinta Lagi - HIVI!,HIVI! - Siapkah Kau Tuk Jatuh Cinta Lagi,C:\Project UAS TERBARU\Lagu\HIVI! - Siapkah Kau Tuk Jatuh Cinta Lagi.mp3,C:\Project UAS TERBARU\Gambar Lagu\HIVI! - Siapkah Kau Tuk Jatuh Cinta Lagi.png,Pop
+Sugeng Dalu - Denny Caknan,Denny Caknan - Sugeng Dalu,C:\Project UAS TERBARU\Lagu\Denny Caknan - Sugeng Dalu.mp3,C:\Project UAS TERBARU\Gambar Lagu\Denny Caknan - Sugeng Dalu.png,Dangdut
+Dance Monkey - Tones and I,Tones and I - Dance Monkey,C:\Project UAS TERBARU\Lagu\Tones And I - Dance Monkey.mp3,C:\Project UAS TERBARU\Gambar Lagu\Tones and I - Dance Monkey.png,Indie
+A Thousand Year - James Arthur,James Arthur - A Thousand Year,C:\Project UAS TERBARU\Lagu\James Arthur - A Thousand Years.mp3,C:\Project UAS TERBARU\Gambar Lagu\James Arthur - A Thousand Years.png,Pop
+Untuk Perempuan Yang Sedang Dipelukan - Payung Teduh,Payung Teduh - Untuk Perempuan Yang Sedang Dipelukan,C:\Project UAS TERBARU\Lagu\Payung Teduh - Untuk Perempuan Yang Sedang Dalam Pelukan.mp3,C:\Project UAS TERBARU\Gambar Lagu\Payung Teduh - Untuk Perempuan Yang Sedang Dalam Pelukan.png,Indie
+Cintanya Aku - Tiara Andini,Tiara Andini - Cintanya Aku,C:\Project UAS TERBARU\Lagu\Tiara Andini ft Arsy Widianto - Cintanya Aku.mp3,C:\Project UAS TERBARU\Gambar Lagu\Tiara Andini ft Arsy Widianto - Cintanya Aku.png,Pop
+Night Changes - One Direction,One Direction - Night Changes,C:\Project UAS TERBARU\Lagu\One Direction - Night Changes.mp3,C:\Project UAS TERBARU\Gambar Lagu\One Direction - Night Changes.png,Pop
+Membasuh - Hindia,Hindia - Membasuh,C:\Project UAS TERBARU\Lagu\Hindia ft Rara Sekar - Membasuh.mp3,C:\Project UAS TERBARU\Gambar Lagu\Hindia ft Rara Sekar - Membasuh.png,Balada
+Drunk Text - Henry Moodie,Henry Moodie - Drunk Text,C:\Project UAS TERBARU\Lagu\Henry Moodie - Drunk Text.mp3,C:\Project UAS TERBARU\Gambar Lagu\Henry Moodie - Drunk Text.png,Pop
+Jalan Pulang - Yura Yunita,Yura Yunita - Jalan Pulang,C:\Project UAS TERBARU\Lagu\Yura Yunita - Jalan Pulang.mp3,C:\Project UAS TERBARU\Gambar Lagu\Yura Yunita - Jalan Pulang.png,Pop
+Cupid - Fifty Fifty,Fifty Fifty - Cupid,C:\Project UAS TERBARU\Lagu\Cupid - Fifty Fifty.mp3,C:\Project UAS TERBARU\Gambar Lagu\Cupid - Fifty Fifty.png,K-POP
+Dandelions - Ruth B,Ruth B - Dandelions,C:\Project UAS TERBARU\Lagu\Ruth B - Dandelions.mp3,C:\Project UAS TERBARU\Gambar Lagu\Ruth B - Dandelions.png,Pop
+Pamit - TULUS,TULUS - Pamit,C:\Project UAS TERBARU\Lagu\TULUS - Pamit.mp3,C:\Project UAS TERBARU\Gambar Lagu\TULUS - Pamit.png,Pop
+Take A Chance With Me - NIKI,NIKI - Take A Chance With Me,C:\Project UAS TERBARU\Lagu\NIKI - Take A Chance With Me.mp3,C:\Project UAS TERBARU\Gambar Lagu\NIKI - Take A Chance With Me.png,Pop
+Seven - Jungkook,Jungkook - Seven,C:\Project UAS TERBARU\Lagu\Jungkook - Seven.mp3,C:\Project UAS TERBARU\Gambar Lagu\Jungkook - Seven.png,K-POP
+Dynamite - BTS,BTS - Dynamite,C:\Project UAS TERBARU\Lagu\BTS - Dynamite.mp3,C:\Project UAS TERBARU\Gambar Lagu\BTS - Dynamite.png,K-POP
+Sempurna - Andra And The Backbone,Andra And The Backbone - Sempurna,C:\Project UAS TERBARU\Lagu\Andra and The Backbone - Sempurna.mp3,C:\Project UAS TERBARU\Gambar Lagu\Andra And The Backbone - Sempurna.png,Pop Rock
+Pesan Terakhir - Lyodra,Lyodra - Pesan Terakhir,C:\Project UAS TERBARU\Lagu\Lyodra - Pesan Terakhir.mp3,C:\Project UAS TERBARU\Gambar Lagu\Lyodra - Pesan Terakhir.png,Pop
+Kekasih Bayangan - Cakra Khan,Cakra Khan - Kekasih Bayangan,C:\Project UAS TERBARU\Lagu\Cakra Khan - Kekasih Bayangan.mp3,C:\Project UAS TERBARU\Gambar Lagu\Cakra Khan - Kekasih Bayangan.png,Pop
+Clocks - Coldplay,Coldplay - Clocks,C:\Project UAS TERBARU\Lagu\Coldplay - Clocks.mp3,C:\Project UAS TERBARU\Gambar Lagu\Coldplay - Clocks.png,Rock
+Aku Tenang - Fourtwnty,Fourtwnty - Aku Tenang,C:\Project UAS TERBARU\Lagu\Fourtwnty - Aku Tenang.mp3,C:\Project UAS TERBARU\Gambar Lagu\Fourtwnty - Aku Tenang.png,Pop
+Someone To Stay - Vancouver Sleep Clinic,Vancouver Sleep Clinic - Someone To Stay,C:\Project UAS TERBARU\Lagu\Vancouver Sleep Clinic - Someone to Stay.mp3,C:\Project UAS TERBARU\Gambar Lagu\Vancouver Sleep Clinic - Someone To Stay.png,Indie
